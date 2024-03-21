@@ -51,7 +51,7 @@ class ImageDisplayScreen extends StatelessWidget {
               SizedBox(height: 25),
               ElevatedButton(
                 style: ButtonStyle(
-                  backgroundColor: MaterialStateProperty.all(Colors.blue[900]),
+                  backgroundColor: MaterialStateProperty.all(Colors.blue[800]),
                   padding: MaterialStateProperty.all(
                     EdgeInsets.symmetric(horizontal: 30),
                   ),
